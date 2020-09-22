@@ -1,0 +1,65 @@
+Through this project you can learn many things, you just need to study it carefully.
+Username is 'admin' and password is 'a'.
+
+=======
+NOTE:
+=======
+
+In order to run this project
+
+1. Your computer date format must be DD/MMM/YYYY.
+2. Screen resolution must be 800 X 600.
+3. Visual Basic Enterprise edition is preferable
+4. Crystal report 4.6 or higher is required.
+
+
+============================================
+KProject look after companies resources like
+============================================
+
+-guest house booking
+-vehicel hire and track use of it
+-issuing bus pass.
+-employee attendence and leave management
+-salary generation
+-canteen handling (from my previous submission 'Canteen Management')
+-placing order and receiving order
+
+
+
+==================================================
+In this project you can see the implementation of 
+==================================================
+
+-Standard Module
+-Active X control
+-Animation Control
+-Date picker control
+-ListView Control
+-TreeView Control
+-Mshflexgrid Control
+-Form used to provide list of value to different field
+-value is received in textbox and later transfer to grid control
+-Many more tricks
+
+=====================
+Software limitation
+=====================
+
+=> Every table must have record with id as 0(zero).
+
+=> Attendence module will not work with night shift, i.e. shift that start on one day and finish on other day.
+
+=> You must not add holidays, which comes on sunday, else problem will be created in Salary calculation.
+
+=> Over time is not calculated in salary.
+
+=> Late coming will be treated as present for full time.
+
+=> Every employee week off will be sunday only.
+
+=> You can not change in order items qty when you receive it.
+
+=> I haven't design all the reports.
+
+=> Project is not error free (Not even Microsoft can develop error free product).
